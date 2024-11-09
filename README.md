@@ -3,7 +3,7 @@ Repositorio de Predicción de Calidad del Vino Este proyecto analiza y predice l
 
 Estructura del Proyecto 
 - data/: [Dataset.](https://github.com/Miguel-Sanabria/Wine_Quality/blob/Wine_Quality_v1/WineQT.csv)
-- notebooks/: Notebooks de Jupyter.
+- notebooks/: [Notebooks de Jupyter.](https://github.com/Miguel-Sanabria/Wine_Quality/blob/Wine_Quality_v1/3_Predicci%C3%B3n_de_Calidad_del_Vino_(Core).ipynb)
 
 README.md: Este archivo.
 
